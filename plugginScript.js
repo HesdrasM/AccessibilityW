@@ -37,7 +37,7 @@ let isGray = false;
 function growText() {
     let spans = document.querySelectorAll("span, a, p");
     let maxValue = 30;
-
+for
     spans.forEach((item) => {
         let currentSize = window.getComputedStyle(item, null).getPropertyValue('font-size');
         let currentSizeValue = parseFloat(currentSize);
@@ -239,7 +239,7 @@ function resetAccessibility() {
         item.style.fontFamily = "";
     });
 
-    // Redefine body style
+    // Redefine body style.
     body.style.filter = "";
     body.style.backgroundColor = "";
     body.style.color = "";
