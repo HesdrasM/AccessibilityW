@@ -1,26 +1,26 @@
-# Acessibilidade em Páginas Web
+# Web Accessibility Script
 
-Este projeto fornece um conjunto de funcionalidades para melhorar a acessibilidade em páginas web. O script permite aos usuários ajustar diversos aspectos visuais da página para garantir uma experiência mais inclusiva para pessoas com deficiências visuais e outras necessidades específicas.
+This project provides a set of features to improve accessibility on web pages. The script allows users to adjust various visual aspects of the page to ensure a more inclusive experience for people with visual impairments and other specific needs.
 
-## Funcionalidades
+## Features
 
-- **Ajuste de Tamanho de Texto**: Permite aumentar ou diminuir o tamanho do texto na página para facilitar a leitura.
-- **Escala de Cinza**: Ativa/desativa o filtro de escala de cinza, proporcionando uma visualização mais amigável para pessoas com dificuldades visuais.
-- **Alto Contraste**: Alterna entre temas de alto contraste (preto no fundo com texto branco ou fundo preto com texto amarelo) para melhorar a visibilidade de textos.
-- **Contraste Negativo**: Ativa o contraste negativo, alterando as cores do fundo e texto para tornar os elementos mais visíveis.
-- **Iluminação de Fundo**: Ativa uma iluminação de fundo com texto preto sobre fundo branco.
-- **Links Sublinhados**: Alterna entre exibir ou remover o sublinhado de todos os links da página.
-- **Fonte Legível**: Altera a fonte da página para uma fonte mais legível (Verdana) e ajusta o tamanho para facilitar a leitura.
-- **Redefinir Acessibilidade**: Restaura as configurações de acessibilidade para os valores padrões da página.
+- **Text Size Adjustment**: Allows users to increase or decrease the text size on the page to improve readability.
+- **Grayscale**: Toggles the grayscale filter on or off, providing a more visually friendly view for people with visual difficulties.
+- **High Contrast**: Switches between high contrast themes (black background with white text or black background with yellow text) to enhance text visibility.
+- **Negative Contrast**: Activates negative contrast, changing the background and text colors to make elements more visible.
+- **Backlight**: Enables backlight with black text on a white background.
+- **Underlined Links**: Toggles between showing or removing the underline from all links on the page.
+- **Readable Font**: Changes the page font to a more readable one (Verdana) and adjusts the font size to enhance readability.
+- **Reset Accessibility**: Resets all accessibility settings to the default page values.
 
-## Como Usar
+## How to Use
 
-1. **Integração com o HTML**: 
-   Adicione os elementos com os `id`s específicos ao seu HTML para ativar as funções de acessibilidade (ex.: `comp-ly4rzz911`, `comp-ly4rzz97`, etc.).
+1. **Integration with HTML**: 
+   Add elements with specific `id`s to your HTML to activate accessibility functions (e.g., `comp-ly4rzz911`, `comp-ly4rzz97`, etc.).
    
-2. **Interação do Usuário**: 
-   O script permite que os usuários interajam com a página através de cliques para ajustar o estilo visual. Cada funcionalidade pode ser ativada ou desativada clicando nos botões correspondentes.
+2. **User Interaction**: 
+   The script allows users to interact with the page through clicks to adjust the visual style. Each feature can be toggled on or off by clicking the corresponding buttons.
 
-## Licença
+## License
 
-Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for more details.
